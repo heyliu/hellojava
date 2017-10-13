@@ -7,14 +7,13 @@
 	"uuid":"13925522480",
 	"detailSubSubject":"12323123123123",
 	"menu":"[]",
-	"data":"[
-    {
-        "CustomerNum": "-uju",
-        "checkOutTime": "2016年10月11日", 
-        "checkInTime": "2016年10月10日 00:00-24:00",
-        "hotelAddress": "No.3,Jalan Jambu MawarOff Jalan Kepong 52000 Kuala Lumpur",
-        "personnels": "lin/jingde,wang/bingfeng",
-        "hotelName": "吉隆坡晶冠酒店"
+	"data":"[{
+        \"CustomerNum\": \"-uju\",
+        \"checkOutTim\": \"2016年10月11日\", 
+        \"checkInTime\": \"2016年10月10日 00:00-24:00\",
+        \"hotelAddress\": \"No.3,Jalan Jambu MawarOff Jalan Kepong 52000 Kuala Lumpur\",
+        \"personnels\": \"lin/jingde,wang/bingfeng\",
+        \"hotelName\": \"吉隆坡晶冠酒店\"
     }
 	]"
 }
