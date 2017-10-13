@@ -11,13 +11,15 @@
 	"menu":"[]",
 	"data":[
     {
-        "CustomerNum": "-uju",
-        "checkOutTime": "2016年10月11日",
-        "checkInTime": "2016年10月10日 00:00-24:00",
-        "hotelAddress": "No.3,Jalan Jambu MawarOff Jalan Kepong 52000 Kuala Lumpur",
-        "personnels": "lin/jingde,wang/bingfeng",
-        "hotelName": "吉隆坡晶冠酒店"
+        "upTime": "2016年10月13日 20:35",
+        "passengers": "白云龙,李江川,刘生兴,张正平",
+        "detai": {
+            "dwTime": "2016年10月13日 22:15",
+            "arrAirport": "西安咸阳T3"
+        },
+        "depAirport": "长沙黄花T2",
+        "fltNum": "MU2150"
     }
-	]
+]
 }
 }
