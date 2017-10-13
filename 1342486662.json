@@ -1,1 +1,21 @@
-{"code":"S_OK","var":{"orderConten":"航班:MU2150   东方航空\n起飞:2016年10月13日 20:35   长沙黄花T2\n到达:2016年10月13日 22:15   西安咸阳T3\n姓名:白云龙,李江川,刘生兴,张正平\n","subject":"携程机票酒店","detailSubSubject":"","menu":""}}
+{
+    "code": "S_OK",
+    "var": {
+        "orderConten": "航班:MU2150   东方航空\n起飞:2016年10月13日 20:35   长沙黄花T2\n到达:2016年10月13日 22:15   西安咸阳T3\n姓名:白云龙,李江川,刘生兴,张正平\n",
+        "subject": "携程机票酒店",
+        "detailSubSubject": "",
+        "menu": "",
+        "data": [
+            {
+                "upTime": "2016年10月13日 20:35",
+                "passengers": "白云龙,李江川,刘生兴,张正平",
+                "detai": {
+                    "dwTime": "2016年10月13日 22:15",
+                    "arrAirport": "西安咸阳T3"
+                },
+                "depAirport": "长沙黄花T2",
+                "fltNum": "MU2150"
+            }
+        ]
+    }
+}

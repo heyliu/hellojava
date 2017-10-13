@@ -1,1 +1,21 @@
-{"code":"S_OK","var":{"orderConten":"航班:CA1762   中国国航\n起飞:2016年8月31日 20:20   重庆江北机场\n到达:2016年8月31日 22:40   杭州萧山机场\n姓名:康 伟超,徐 赟,姚 一波\n","subject":"中国国际航空","detailSubSubject":"","menu":""}}
+{
+    "code": "S_OK",
+    "var": {
+        "orderConten": "航班:CA1762   中国国航\n起飞:2016年8月31日 20:20   重庆江北机场\n到达:2016年8月31日 22:40   杭州萧山机场\n姓名:康 伟超,徐 赟,姚 一波\n",
+        "subject": "中国国际航空",
+        "detailSubSubject": "",
+        "menu": "",
+        "data": [
+            {
+                "upTime": "2016年8月31日 20:20",
+                "passengers": "康 伟超,徐 赟,姚 一波",
+                "detai": {
+                    "dwTime": "2016年8月31日 22:40",
+                    "arrAirport": "杭州萧山机场"
+                },
+                "depAirport": "重庆江北机场",
+                "fltNum": "CA1762"
+            }
+        ]
+    }
+}

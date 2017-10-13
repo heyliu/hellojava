@@ -7,14 +7,14 @@
         "menu": "",
         "data": [
             {
-                "upTime": "2016年10月13日 20:35",
-                "passengers": "白云龙,李江川,刘生兴,张正平",
+                "upTime": "2016年10月10日 10:40",
+                "passengers": "段安生",
                 "detai": {
-                    "dwTime": "2016年10月13日 22:15",
+                    "dwTime": "2016年10月10日 12:55",
                     "arrAirport": "西安咸阳T3"
                 },
-                "depAirport": "长沙黄花T2",
-                "fltNum": "MU2150"
+                "depAirport": "北京首都机场1号航站楼",
+                "fltNum": "HU7682"
             }
         ]
     }

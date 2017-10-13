@@ -1,1 +1,21 @@
-{"code":"S_OK","var":{"orderConten":"航班:CA1232   中国国航\n起飞:2016年8月27日 11:00   西安咸阳机场\n到达:2016年8月27日 12:55   北京首都国际机场\n姓名:董 凤丽,董 玲娟,董 元利\n","subject":"中国国际航空","detailSubSubject":"","menu":""}}
+{
+    "code": "S_OK",
+    "var": {
+        "orderConten": "航班:CA1232   中国国航\n起飞:2016年8月27日 11:00   西安咸阳机场\n到达:2016年8月27日 12:55   北京首都国际机场\n姓名:董 凤丽,董 玲娟,董 元利\n",
+        "subject": "中国国际航空",
+        "detailSubSubject": "",
+        "menu": "",
+        "data": [
+            {
+                "upTime": "2016年8月27日 11:00",
+                "passengers": "董 凤丽,董 玲娟,董 元利",
+                "detai": {
+                    "dwTime": "2016年8月27日 12:55",
+                    "arrAirport": "北京首都国际机场"
+                },
+                "depAirport": "西安咸阳机场",
+                "fltNum": "CA1232"
+            }
+        ]
+    }
+}
