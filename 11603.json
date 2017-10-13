@@ -1,0 +1,20 @@
+
+{
+	"orderConten":"酒店:赤水云湖天乡酒店\n地址:赤水市城工大道与赤天化交汇处东侧近金华广场路\n电话:0851-22981999\n到店:2016年08月10日 18:00-21:00\n离店:2016年08月11日\n姓名:黄磊,黄磊代订,李敏,李敏代订\n数量:1"},{'mid':"7e034c4fc3c2b18b0000001a",
+	"uid":"123456",
+	"subject":"您预订的[赤水云湖天乡酒店]已成功",
+	"sendId":"1010001",
+	"uuid":"13925522480",
+	"detailSubSubject":"12323123123123",
+	"menu":"[]",
+	"data":"[
+    {
+        "CustomerNum": "-uju",
+        "checkOutTime": "2016年10月11日", 
+        "checkInTime": "2016年10月10日 00:00-24:00",
+        "hotelAddress": "No.3,Jalan Jambu MawarOff Jalan Kepong 52000 Kuala Lumpur",
+        "personnels": "lin/jingde,wang/bingfeng",
+        "hotelName": "吉隆坡晶冠酒店"
+    }
+	]"
+}
