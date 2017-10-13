@@ -1,23 +1,21 @@
 {
-  "code":"S_OK",
-  "summary":"获取成功",
-  "var":{
-	"orderConten":"酒店:赤水云湖天乡酒店\n地址:赤水市城工大道与赤天化交汇处东侧近金华广场路\n电话:0851-22981999\n到店:2016年08月10日 18:00-21:00\n离店:2016年08月11日\n姓名:黄磊,黄磊代订,李敏,李敏代订\n数量:1",
-	"uid":"1342487980",
-	"subject":"您预订的[赤水云湖天乡酒店]已成功",
-	"sendId":"1010001",
-	"uuid":"13925522480",
-	"detailSubSubject":"12323123123123",
-	"menu":"[]",
-	"data":[
-    {
-        "CustomerNum": "-uju",
-        "checkOutTime": "2016年10月11日",
-        "checkInTime": "2016年10月10日 00:00-24:00",
-        "hotelAddress": "No.3,Jalan Jambu MawarOff Jalan Kepong 52000 Kuala Lumpur",
-        "personnels": "lin/jingde,wang/bingfeng",
-        "hotelName": "吉隆坡晶冠酒店"
+    "code": "S_OK",
+    "var": {
+        "orderConten": "航班:CA1585   中国国航\n起飞:2016年10月03日 06:25   北京首都机场3号航站楼\n到达:2016年10月03日 07:45   烟台蓬莱国际机场\n姓名:陈大麟\n\n航班:CA1585   中国国航\n起飞:2016年10月03日 06:25   北京首都机场3号航站楼\n到达:2016年10月03日 07:45   烟台蓬莱国际机场\n姓名:闫娜\n\n航班:CA1585   中国国航\n起飞:2016年10月03日 06:25   北京首都机场3号航站楼\n到达:2016年10月03日 07:45   烟台蓬莱国际机场\n姓名:陈卓言\n",
+        "subject": "",
+        "detailSubSubject": "",
+        "menu": "",
+        "data": [
+            {
+                "upTime": "2016年10月13日 20:35",
+                "passengers": "A白云龙,B李江川,C刘生兴,张正平",
+                "detai": {
+                    "dwTime": "2016年10月13日 22:15",
+                    "arrAirport": "西安咸阳T3"
+                },
+                "depAirport": "长沙黄花T2",
+                "fltNum": "MU2150"
+            }
+        ]
     }
-	]
-}
 }
