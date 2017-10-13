@@ -1,4 +1,7 @@
 {
+  "code":"S_Ok",
+  "summary":"获取成功",
+  "var":{
     "orderConten":"车次:G7072\n座位:05车06A号\n发车:2016年12月5日 06:02\n站点:上海—芜湖\n姓名:刘德华\n数量:4",
     "uid":"123456",
     "subject":"网上购票系统-用户支付通知",
@@ -6,22 +9,23 @@
     "uuid":"13925522480",
     "detailSubSubject":"12323123123123",
     "menu":"[]",
-    "data":"[
+    "data":[
     {
-        \"trainNum\": \"G7072\",
-        \"passengers\": \"王茂胜\",
-        \"seatNum\": \"05车06C号\",
-        \"depTime\": \"2016年08月10日 06:02\",
-        \"desStation\": \"芜湖\",
-        \"depStation\": \"上海\"
+        "trainNum": "G7072",
+        "passengers": "王茂胜",
+        "seatNum": "05车06C号",
+        "depTime": "2016年08月10日 06:02",
+        "desStation": "芜湖",
+        "depStation": "上海"
     },
     {
-        \"trainNum\": \"G7072\",
-        \"passengers\": \"王家佳\",
-        \"seatNum\": \"05车06D号\",
-        \"depTime\": \"2016年08月10日 06:02\",
-        \"desStation\": \"芜湖\",
-        \"depStation\": \"上海\"
+        "trainNum": "G7072",
+        "passengers": "王家佳",
+        "seatNum": "05车06D号",
+        "depTime": "2016年08月10日 06:02",
+        "desStation": "芜湖",
+        "depStation": "上海"
     }
-]"
+]
+}
 }
