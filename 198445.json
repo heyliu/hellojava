@@ -1,0 +1,19 @@
+{
+    "code": "S_OK",
+    "var": {
+        "orderConten": "酒店:吉隆坡晶冠酒店\n地址:No.3, Jalan Jambu MawarOff Jalan Kepong 52000 Kuala Lumpur\n电话:-\n到店:2016年10月10日 00:00-24:00\n离店:2016年10月11日\n姓名:lin/jingde,wang/bingfeng\n",
+        "subject": "去哪儿",
+        "detailSubSubject": "",
+        "menu": "",
+        "data": [
+            {
+                "CustomerNum": "-uju",
+                "checkOutTime": "2016年10月11日",
+                "checkInTime": "2016年10月10日 00:00-24:00",
+                "hotelAddress": "No.3,Jalan Jambu MawarOff Jalan Kepong 52000 Kuala Lumpur",
+                "personnels": "lin/jingde,wang/bingfeng",
+                "hotelName": "吉隆坡晶冠酒店"
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "code": "S_OK",
+    "var": {
+        "orderConten": "航班:CZ336   南方航空\n起飞:2017年01月15日 10:00   奥克兰机场\n到达:2017年01月15日 17:00   广州白云机场\n姓名:WANG/QINGQING,ZHONG/PIAO\n\n航班:CZ3805   南方航空\n起飞:2017年01月15日 20:00   广州白云机场\n到达:2017年01月15日 21:25   厦门高崎机场\n姓名:WANG/QINGQING,ZHONG/PIAO\n\n航班:CZ3724   南方航空\n起飞:2017年02月04日 09:30   厦门高崎机场\n到达:2017年02月04日 11:05   广州白云机场\n姓名:WANG/QINGQING,ZHONG/PIAO\n\n航班:CZ335   南方航空\n起飞:2017年02月04日 14:30   广州白云机场\n到达:2017年02月05日 07:00   奥克兰机场\n姓名:WANG/QINGQING,ZHONG/PIAO\n",
+        "subject": "中国南方航空",
+        "detailSubSubject": "",
+        "menu": "",
+        "data": [
+            {
+                "upTime": "2017年01月15日 10:00",
+                "passengers": "康永平",
+                "detai": {
+                    "dwTime": "2016年11月15日 12:45",
+                    "arrAirport": "广州白云机场"
+                },
+                "depAirport": "奥克兰机场",
+                "fltNum": "CZ336"
+            }
+        ]
+    }
+}

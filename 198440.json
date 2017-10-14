@@ -1,0 +1,43 @@
+{
+    "code": "S_OK",
+    "var": {
+        "orderConten": "车次:G7072\n座位:05车06A号\n发车:2016年12月5日 06:02\n站点:上海—芜湖\n姓名:刘德华\n\n车次:G7072\n座位:05车06B号\n发车:2016年12月5日 06:02\n站点:上海—芜湖\n姓名:张学友\n\n车次:G7072\n座位:05车06C号\n发车:2016年12月5日 06:02\n站点:上海—芜湖\n姓名:黎明\n\n车次:G7072\n座位:05车06D号\n发车:2016年12月5日 06:02\n站点:上海—芜湖\n姓名:郭富城\n",
+        "subject": "12306火车票",
+        "detailSubSubject": "",
+        "menu": "",
+        "data": [
+            {
+                "trainNum": "G7072",
+                "passengers": "王茂胜",
+                "seatNum": "05车06A号",
+                "depTime": "2016年12月5日 06:02",
+                "desStation": "上海",
+                "depStation": "芜湖"
+            },
+            {
+                "trainNum": "G7072",
+                "passengers": "刘德华",
+                "seatNum": "05车06B号",
+                "depTime": "2016年12月5日 06:02",
+                "desStation": "上海",
+                "depStation": "芜湖"
+            },
+            {
+                "trainNum": "G7072",
+                "passengers": "张学友",
+                "seatNum": "05车06C号",
+                "depTime": "2016年12月5日 06:02",
+                "desStation": "上海",
+                "depStation": "芜湖"
+            },
+            {
+                "trainNum": "G7072",
+                "passengers": "黎明",
+                "seatNum": "05车06D号",
+                "depTime": "2016年12月5日 06:02",
+                "desStation": "上海",
+                "depStation": "芜湖"
+            }
+        ]
+    }
+}

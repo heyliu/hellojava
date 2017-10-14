@@ -1,0 +1,22 @@
+{
+  "code": "S_OK",
+  "var": {
+    "orderConten": "称呼:李响女士\n卡号后四位:4442\n可用额度:8496.59\n取现额度:1503.41\n交易时间:06月18日 17:13:05\n币种:人民币\n商户名称:消费 微信支付:深圳市万通顺达科技股份有限\n金额:50.00",
+    "subject": "招商银行信用卡",
+    "detailSubSubject": "",
+    "menu": "",
+    "data":[
+    {
+        "cardNum": "4442",
+        "AvaCredit": "8496.59",
+        "customName": "张三",
+        "detail": {
+            "tradeTime": "06月18日 17:13:05",
+            "tradeAmount": "50.00",
+            "tradeMerchant": "微信支付:深圳市万通顺达科技股份有限",
+            "Unit": "元"
+        }
+    }
+]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "code": "S_OK",
+  "var": {
+    "orderConten": "最后还款日:06月13日\n人民币账单金额:￥2,602.37\n美元账单金额:＄0.00\n人民币最低还款额:￥260.24\n美元最低还款额:＄0.00",
+    "subject": "招商银行信用卡",
+    "detailSubSubject": "",
+    "menu": "",
+    "data":[{
+        "billinfo": {
+            "china": {
+                "billAmount": "￥2,602.37",
+                "minRepay": "￥260.24"
+            },
+            "dollar": {
+                "billAmount": "＄0.00",
+                "minRepay": "＄0.00"
+            }
+        },
+        "repayDate": "06月13日"
+    }
+]
+  }
+}

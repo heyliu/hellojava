@@ -1,0 +1,21 @@
+{
+    "code": "S_OK",
+    "var": {
+        "orderConten": "航班:CZ3437   南方航空\n起飞:2016年11月15日 10:15   广州白云机场\n到达:2016年11月15日 12:45   成都双流机场\n姓名:康永平\n",
+        "subject": "中国南方航空",
+        "detailSubSubject": "",
+        "menu": "",
+        "data": [
+            {
+                "upTime": "2016年11月15日 10:15",
+                "passengers": "康永平",
+                "detai": {
+                    "dwTime": "2016年11月15日 12:45",
+                    "arrAirport": "成都双流机场"
+                },
+                "depAirport": "广州白云机场",
+                "fltNum": "CZ3437"
+            }
+        ]
+    }
+}

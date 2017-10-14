@@ -1,0 +1,21 @@
+{
+    "code": "S_OK",
+    "var": {
+        "orderConten": "航班:HU7682   海南航空\n起飞:2016年10月10日 10:40   北京首都机场1号航站楼\n到达:2016年10月10日 12:55   安庆\n姓名:段安生\n",
+        "subject": "艺龙",
+        "detailSubSubject": "",
+        "menu": "",
+        "data": [
+            {
+                "upTime": "2016年10月10日 10:40",
+                "passengers": "段安生",
+                "detai": {
+                    "dwTime": "016年10月10日 12:55",
+                    "arrAirport": "安庆"
+                },
+                "depAirport": "北京首都机场1号航站楼",
+                "fltNum": "HU7682"
+            }
+        ]
+    }
+}
