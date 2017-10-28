@@ -1,21 +1,9 @@
 {
     "code": "S_OK",
     "var": {
-        "orderConten": "航班:MF8022   厦门航空\n起飞:2016年10月12日 13:05   哈尔滨(航站楼 )\n到达:2016年10月12日 16:25   杭州(航站楼 )\n姓名:王成胜\n",
+        "orderConten": "[{\"upTime\":\"2016年10月12日 13:05\",\"passengers\":\"王成胜\",\"detai\":{\"dwTime\":\"2016年10月12日 16:25\",\"arrAirport\":\"成都双流机场\"},\"depAirport\":\"杭州(航站楼 )\",\"fltNum\":\"MF8022\"}]",
         "subject": "商旅100",
         "detailSubSubject": "",
-        "menu": "",
-        "data": [
-            {
-                "upTime": "2016年10月12日 13:05",
-                "passengers": "王成胜",
-                "detai": {
-                    "dwTime": "2016年10月12日 16:25",
-                    "arrAirport": "成都双流机场"
-                },
-                "depAirport": "杭州(航站楼 )",
-                "fltNum": "MF8022"
-            }
-        ]
+        "menu": ""
     }
 }

@@ -1,27 +1,9 @@
 {
   "code": "S_OK",
   "var": {
-    "orderConten": "车次:G1112\n座位:02车17A号\n发车:2017年01月27日 10:52\n站点:广州南—武汉\n姓名:李小青\n\n车次:G1112\n座位:02车17B号\n发车:2017年01月27日 10:52\n站点:广州南—武汉\n姓名:刘丽娜\n",
+    "orderConten": "[{\"trainNum\":\"G1112\",\"passengers\":\"李小青\",\"seatNum\":\"02车17A号\",\"depTime\":\"2017年01月27日 10:52\",\"desStation\":\"广州南\",\"depStation\":\"武汉\"},{\"trainNum\":\"G1112\",\"passengers\":\"刘丽娜\",\"seatNum\":\"02车17B号\",\"depTime\":\"2017年01月27日 10:52\",\"desStation\":\"广州南\",\"depStation\":\"武汉\"}]",
     "subject": "12306火车票",
     "detailSubSubject": "",
-    "menu": "",
-    "data":[
-    {
-        "trainNum": "G1112",
-        "passengers": "李小青",
-        "seatNum": "02车17A号",
-        "depTime": "2017年01月27日 10:52",
-        "desStation": "广州南",
-        "depStation": "武汉"
-    },
-    {
-        "trainNum": "G1112",
-        "passengers": "刘丽娜",
-        "seatNum": "02车17B号",
-        "depTime": "2017年01月27日 10:52",
-        "desStation": "广州南",
-        "depStation": "武汉"
-    }
-]
+    "menu": ""
   }
 }
