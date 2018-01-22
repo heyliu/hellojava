@@ -1,28 +1,10 @@
 {
-  "code":"S_OK",
-  "summary":"获取成功",
-  "var":{
-    "orderConten":"最后还款日:06月13日\n人民币账单金额:￥2,602.37\n美元账单金额:＄0.00\n人民币最低还款额:￥260.24\n美元最低还款额:＄0.00",
-    "uid":"123456",
-    "subject":"招商银行信用卡电子账单2017年5月",
-    "sendId":"1010101",
-    "uuid":"13925522480",
-    "detailSubSubject":"12323123123123",
-    "menu":"[]",
-    "data":[
-    {
-        "billinfo": {
-            "china": {
-                "billAmount": "￥2,614.92",
-                "minRepay": "￥261.49"
-            },
-            "dollar": {
-                "billAmount": "＄0.00",
-                "minRepay": "＄0.00"
-            }
-        },
-        "repayDate": "10月25日"
-    }
-]
-}
+    "upgrade": "Y",
+    "force": "N",
+    "hash": "7d13f512c470e2a7da51e67cd624d5ae",
+    "uploadTime": "2017-12-05 11:03:08",
+    "url": "",
+    "version": "7.4.1",
+    "updateMode":1,
+    "content": "优化移动账单、企业服务号，卡片展示更清晰\n新增邮件分享、附件分享功能，邮件管理更轻松\n新增扫码添加联系人，通讯录管理更方便\n"
 }
